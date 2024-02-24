@@ -936,7 +936,7 @@ const AllBlogPage = () => {
                         className="mt-1 text-sm text-white-A700 tracking-[-0.50px]"
                         size="txtInterRegular14"
                       >
-                        Copyright © Neuzy | All Rights Reserved
+                        Copyright © InsightsBW | All Rights Reserved
                       </Text>
                       <Img
                         className="h-6"
